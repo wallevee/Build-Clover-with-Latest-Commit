@@ -8,7 +8,7 @@ cd Desktop
 (jika ingin membuat project di Desktop)
 
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/190618401@N03/50475520613/in/dateposted-public/" title="Screen Shot 2020-10-14 at 11.16.29"><img src="https://live.staticflickr.com/65535/50475520613_1930bae621_z.jpg" width="640" height="444" alt="Screen Shot 2020-10-14 at 11.16.29">
+<img src="https://live.staticflickr.com/65535/50475520613_1930bae621_z.jpg" width="640" height="444" alt="Screen Shot 2020-10-14 at 11.16.29">
   
 
 ### 2. Lalu jalankan perintah untuk mengclone repository = 
