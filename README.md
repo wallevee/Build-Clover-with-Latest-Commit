@@ -35,7 +35,8 @@ cd CloverBootloader
 git clone https://github.com/CloverHackyColor/OpenCorePkg.git
 ```
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/190618401@N03/50476457652/in/dateposted-public/" title="Screen Shot 2020-10-14 at 12.02.23"><img src="https://live.staticflickr.com/65535/50476457652_3df370f5a0_z.jpg" width="640" height="444" alt="Screen Shot 2020-10-14 at 12.02.23"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/190618401@N03/50478462747/in/dateposted-public/" title="Screen Shot 2020-10-14 at 16.51.52"><img src="https://live.staticflickr.com/65535/50478462747_236a42873f_z.jpg" width="640" height="366" alt="Screen Shot 2020-10-14 at 16.51.52"></a>
+
 
 ### 5. Lalu clone MacKernelSDK dan jalankan perintah = 
 
