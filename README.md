@@ -17,7 +17,7 @@ cd Desktop
 git clone https://github.com/CloverHackyColor/CloverBootloader.git
 ```
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/190618401@N03/50476457997/in/dateposted-public/" title="Screen Shot 2020-10-14 at 11.58.34"><img src="https://live.staticflickr.com/65535/50476457997_4d9765da66_z.jpg" width="640" height="444" alt="Screen Shot 2020-10-14 at 11.58.34"></a>
+<img src="https://live.staticflickr.com/65535/50476457997_4d9765da66_z.jpg" width="640" height="444" alt="Screen Shot 2020-10-14 at 11.58.34"></a>
 
 
 ### 3. Kalau udh ke clone, pindah folder pake perintah =
@@ -26,7 +26,7 @@ git clone https://github.com/CloverHackyColor/CloverBootloader.git
 cd CloverBootloader
 ```
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/190618401@N03/50476457712/in/dateposted-public/" title="Screen Shot 2020-10-14 at 11.59.08"><img src="https://live.staticflickr.com/65535/50476457712_15a87b6e80_z.jpg" width="640" height="444" alt="Screen Shot 2020-10-14 at 11.59.08">
+<img src="https://live.staticflickr.com/65535/50476457712_15a87b6e80_z.jpg" width="640" height="444" alt="Screen Shot 2020-10-14 at 11.59.08">
   
 
 ### 4. Lalu clone OpenCorePkg dengan jalankan perintah = 
@@ -35,7 +35,7 @@ cd CloverBootloader
 git clone https://github.com/CloverHackyColor/OpenCorePkg.git
 ```
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/190618401@N03/50478462747/in/dateposted-public/" title="Screen Shot 2020-10-14 at 16.51.52"><img src="https://live.staticflickr.com/65535/50478462747_236a42873f_z.jpg" width="640" height="366" alt="Screen Shot 2020-10-14 at 16.51.52"></a>
+<img src="https://live.staticflickr.com/65535/50478462747_236a42873f_z.jpg" width="640" height="366" alt="Screen Shot 2020-10-14 at 16.51.52"></a>
 
 
 ### 5. Lalu clone MacKernelSDK dan jalankan perintah = 
@@ -44,7 +44,7 @@ git clone https://github.com/CloverHackyColor/OpenCorePkg.git
 git clone https://github.com/acidanthera/MacKernelSDK.git
 ```
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/190618401@N03/50476457652/in/dateposted-public/" title="Screen Shot 2020-10-14 at 12.02.23"><img src="https://live.staticflickr.com/65535/50476457652_3df370f5a0_z.jpg" width="640" height="444" alt="Screen Shot 2020-10-14 at 12.02.23"></a>
+<img src="https://live.staticflickr.com/65535/50476457652_3df370f5a0_z.jpg" width="640" height="444" alt="Screen Shot 2020-10-14 at 12.02.23"></a>
 
 
 ### 6. jika sudah selesai, lalu jalankan perintah 
@@ -53,7 +53,7 @@ git clone https://github.com/acidanthera/MacKernelSDK.git
 ./buildme
 ```
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/190618401@N03/50476304901/in/dateposted-public/" title="Screen Shot 2020-10-14 at 12.02.39"><img src="https://live.staticflickr.com/65535/50476304901_47cdf13ed4_z.jpg" width="640" height="444" alt="Screen Shot 2020-10-14 at 12.02.39"></a>
+<img src="https://live.staticflickr.com/65535/50476304901_47cdf13ed4_z.jpg" width="640" height="444" alt="Screen Shot 2020-10-14 at 12.02.39"></a>
 
 ### 7. Pilih point 9 dan lalu point 10 
 
