@@ -46,4 +46,4 @@ git clone https://github.com/acidanthera/MacKernelSDK.git
 
 ### 6. Pilih point 9 dan lalu point 10 
 
-### 7. Setelah itu kalian bebas untuk build clover saja, file pkg(installer), dll. Kalau saya lebih prepare build All point 7
+## Setelah itu kalian bebas untuk build clover saja, file pkg(installer), Make ISO, dll. Kalau saya lebih prepare build All point # 7
